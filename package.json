@@ -1,0 +1,33 @@
+{
+  "name": "canvas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@braid/vue-formulate": "^2.5.2",
+    "@fontsource/alike": "^4.5.0",
+    "bootstrap": "^5.1.2",
+    "core-js": "^3.6.5",
+    "swiper": "^7.2.0",
+    "vee-validate": "^4.5.3",
+    "vue": "^3.0.0",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-fontawesome": "^0.0.2",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-router": "^4.0.0-0",
+    "vue-sweetalert2": "^5.0.2",
+    "vue3-carousel": "^0.1.30",
+    "vueperslides": "^3.3.2",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}
